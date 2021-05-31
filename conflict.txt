@@ -1,3 +1,2 @@
-there is a conflict2
-here we are creating a conflict2
+there is no conflicts
 here
